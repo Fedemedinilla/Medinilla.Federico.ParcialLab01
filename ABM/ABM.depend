@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1602998762 source:c:\users\federico\desktop\biblioteca codeblocks\abm\menu.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1603013695 source:c:\users\federico\desktop\biblioteca codeblocks\abm\getfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1603286554 source:c:\users\federico\desktop\biblioteca codeblocks\abm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+	"GetFunctions.h"
+	"NotebookFunctions.h"
+	"MarcaFunctions.h"
+	"TipoFunctions.h"
+	"ServicioFunctions.h"
+
+1602997572 c:\users\federico\desktop\biblioteca codeblocks\abm\menu.h
+
+1603003364 c:\users\federico\desktop\biblioteca codeblocks\abm\getfunctions.h
+
+1603001226 c:\users\federico\desktop\biblioteca codeblocks\abm\notebookfunctions.h
+
+1603280146 source:c:\users\federico\desktop\biblioteca codeblocks\abm\notebookfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"NotebookFunctions.h"
+	"GetFunctions.h"
+
+1603183302 source:c:\users\federico\desktop\biblioteca codeblocks\abm\marcafunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"MarcaFunctions.h"
+
+1603183239 source:c:\users\federico\desktop\biblioteca codeblocks\abm\serviciofunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ServicioFunctions.h"
+
+1603183336 source:c:\users\federico\desktop\biblioteca codeblocks\abm\tipofunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"TipoFunctions.h"
+
+1603012988 c:\users\federico\desktop\biblioteca codeblocks\abm\marcafunctions.h
+
+1603013891 c:\users\federico\desktop\biblioteca codeblocks\abm\tipofunctions.h
+
+1603183154 c:\users\federico\desktop\biblioteca codeblocks\abm\serviciofunctions.h
+
